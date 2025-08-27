@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alen Joy  
 
-🎯 **Innovative Trainee Engineer | Full-Stack Developer | AI & ML Enthusiast**  
+🎯 **Full-Stack Developer | AI & ML Enthusiast**  
 
 I am a passionate Computer Science Engineer with experience in **Python and Machine Learning**.  
 I enjoy solving problems, building scalable web apps, and working on AI-driven solutions.  
