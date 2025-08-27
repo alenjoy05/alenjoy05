@@ -2,7 +2,7 @@
 
 🎯 **Innovative Trainee Engineer | Full-Stack Developer | AI & ML Enthusiast**  
 
-I am a passionate Computer Science Engineer with experience in **Java, Spring Boot, Angular, Python, and Machine Learning**.  
+I am a passionate Computer Science Engineer with experience in **Python and Machine Learning**.  
 I enjoy solving problems, building scalable web apps, and working on AI-driven solutions.  
 
 ---
@@ -53,6 +53,16 @@ I enjoy solving problems, building scalable web apps, and working on AI-driven s
   Developed a Flutter-based mobile app to monitor and control aquarium conditions, automating water & medicine control.  
 
 ---
+## 💼 Experience & Training
+
+**Trainee – ICT Academy of Kerala**  
+📍 Kerala, India  
+
+- Undergoing training in **Python, OOP, and Core ML concepts**.  
+- Hands-on exposure to **Supervised Learning** (Regression, SVM, Decision Trees).  
+- Practical work with **Data Preprocessing, EDA**, and ML libraries (**NumPy, Pandas, scikit-learn**).  
+- Developed **real-world projects** applying ML techniques to datasets.  
+
 
 ## 🏆 Achievements
 - 🥇 Winner – Paper Conclave, *Ignite V4*, National Tech Fest (MIT)  
